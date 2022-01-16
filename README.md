@@ -25,9 +25,18 @@ at the end of the game, there will be an game over screen which will represent t
 ----
 ## requirements
 
-required imports is:
+required imports are:
+
+for the game:
 
 pygame
+
+for the graph representation:
+matplotlib
+
+numpy
+
+pandas
 
 ----
 ## how to run
