@@ -32,6 +32,7 @@ for the game:
 pygame
 
 for the graph representation:
+
 matplotlib
 
 numpy
@@ -40,7 +41,7 @@ pandas
 
 ----
 ## how to run
-open main foler where Ex4_Server_v0.0 is and open cmd in that folder with this command
+open main foler where Ex4_Server_v0.0 is, and open cmd in that folder with this command
 change the 0 at the end to 0 to 15 cases like: java -jar Ex4_Server_v0.0.jar 13
 ```sh
 java -jar Ex4_Server_v0.0.jar 0
